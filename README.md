@@ -11,6 +11,6 @@ I have solved the problem in the following way:
 7) Fit the model with gbm and randomforest but randomforest performed better so keep the result of randomforest.
 8) Perform Hyperparameter Tuning to improve the accuracy of model.
 9) Predict the prices
-10) Accuracy 86.8
+10) Accuracy 86.8261
 
 # See the code for more details
